@@ -10,14 +10,14 @@
 
 ---
 
-## 📌 Introduction
+##  Introduction
 
 Salut ! Dans ce petit guide, je vais t’expliquer comment installer **PostgreSQL** et **PgAdmin** avec **Docker** en quelques étapes simples et rapides.  
 L’objectif : t’offrir un environnement facile à déployer, reproductible, et sans prise de tête ! 😎
 
 ---
 
-## 🎯 Pourquoi utiliser PostgreSQL et PgAdmin ?
+##  Pourquoi utiliser PostgreSQL et PgAdmin ?
 
 ### 🐘 PostgreSQL — La star des bases de données
 
@@ -31,7 +31,7 @@ Elle supporte :
 
 Utilisé par de nombreuses entreprises pour leurs applications critiques, PostgreSQL est un pilier du développement moderne.
 
-### 🧑‍💻 PgAdmin — Ton assistant graphique
+###  PgAdmin — Ton assistant graphique
 
 PgAdmin est une **interface web** pour administrer PostgreSQL facilement.  
 Tu peux :
